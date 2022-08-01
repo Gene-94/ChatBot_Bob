@@ -1,0 +1,15 @@
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/bin/Debug/net6.0/moody_teen_chatbot
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/bin/Debug/net6.0/moody_teen_chatbot.deps.json
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/bin/Debug/net6.0/moody_teen_chatbot.runtimeconfig.json
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/bin/Debug/net6.0/moody_teen_chatbot.dll
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/bin/Debug/net6.0/moody_teen_chatbot.pdb
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/obj/Debug/net6.0/moody_teen_chatbot.csproj.AssemblyReference.cache
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/obj/Debug/net6.0/moody_teen_chatbot.GeneratedMSBuildEditorConfig.editorconfig
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/obj/Debug/net6.0/moody_teen_chatbot.AssemblyInfoInputs.cache
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/obj/Debug/net6.0/moody_teen_chatbot.AssemblyInfo.cs
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/obj/Debug/net6.0/moody_teen_chatbot.csproj.CoreCompileInputs.cache
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/obj/Debug/net6.0/moody_teen_chatbot.dll
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/obj/Debug/net6.0/refint/moody_teen_chatbot.dll
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/obj/Debug/net6.0/moody_teen_chatbot.pdb
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/obj/Debug/net6.0/moody_teen_chatbot.genruntimeconfig.cache
+/home/yevheniy/Programas/C#/Exercices/moody_teen_chatbot/obj/Debug/net6.0/ref/moody_teen_chatbot.dll
